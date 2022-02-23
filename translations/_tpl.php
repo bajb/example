@@ -1,6 +1,5 @@
 <?php
 
-
 return [
   'homepage' => [
     '_' => 'Homepage',
